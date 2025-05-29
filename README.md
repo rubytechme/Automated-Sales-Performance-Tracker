@@ -63,6 +63,7 @@ This inconsistency suggests that profit peaks are likely driven by varying facto
 ### Profit by state
 California generated the highest profit, reaching an impressive $2,178. This figure significantly overshadows other states. Following California, Texas recorded the next highest profit at $2,119, with Arkansas and Tennessee closely behind at $1,815 and $1,813 respectively. This regional breakdown highlights California as a dominant profit driver.
 
+
 ![](https://github.com/rubytechme/Automated-Sales-Performance-Tracker/blob/main/Sales2.png)
 
 ### Profit by sales channel 
@@ -85,37 +86,33 @@ It's highly encouraging to note that all presented states recorded profit growth
 This robust performance across individual branches underscores their critical role in the company's success. It clearly demonstrates how strong individual branch performance can significantly contribute to, and even drive, the overall positive outlook and growth of the entire business.
 
 
-Profit By Region
+### Profit By Region
 Analysis of regional profit contribution reveals a clear and consistent hierarchy from 2021 through 2024. The South consistently generates the highest profit, followed by the West, then the Midwest, and finally the Northeast. This stable ranking across multiple years indicates deeply ingrained regional strengths and market dynamics.
 
 
-You can interact with the live visualization here
-https://app.powerbi.com/groups/me/reports/48051f89-a36b-4b97-876a-c70e292092f7/ReportSection?experience=power-bi
+## Live Dashboard:
+
+You can interact with the live visualization [HERE](https://app.powerbi.com/groups/me/reports/48051f89-a36b-4b97-876a-c70e292092f7/ReportSection?experience=power-bi)
 
 
-Conclusion and Recommendations:
+## Conclusion and Recommendations:
 The company currently presents a mixed but promising financial picture. While 2024 has seen a positive rebound in both revenue and profit, indicating a recovery from a challenging 2023, the overall year-over-year growth trajectory remains somewhat inconsistent. Specific geographic regions and sales channels appeared to be strong alongside a healthy customer base. However, areas of concern persist, particularly with certain product lines and the lack of predictable seasonal profit patterns.
-Key Recommendations:
-Strategic Review of Underperforming Products:
 
+### Key Recommendations:
+### Strategic Review of Underperforming Products:
+- Conduct an urgent, in-depth investigation into the consistent underperformance of the Sports Bra product line. This analysis should aim to identify root causes (e.g., market demand, product quality, pricing, marketing) and inform a decision on whether to halt sales, redesign, or pivot the product strategy.
 
-Conduct an urgent, in-depth investigation into the consistent underperformance of the Sports Bra product line. This analysis should aim to identify root causes (e.g., market demand, product quality, pricing, marketing) and inform a decision on whether to halt sales, redesign, or pivot the product strategy.
-Optimize Sales Channel Investment:
-
-
+### Optimize Sales Channel Investment:
 Leverage the continued success of Marketplaces as the highest profit-generating channel by exploring strategies to scale or replicate this success and understand its specific drivers.
-Enhance Geographic Profitability:
 
+### Enhance Geographic Profitability:
+- Study the success factors in California to identify best practices, marketing strategies, or operational efficiencies that can be applied to other states to boost their profit contributions.
+- Continue to support and grow all states, especially those showing positive profit, as their collective performance directly impacts the company's overall financial health.
 
-Study the success factors in California to identify best practices, marketing strategies, or operational efficiencies that can be applied to other states to boost their profit contributions.
-Continue to support and grow all states, especially those showing positive profit, as their collective performance directly impacts the company's overall financial health.
-Stabilize and Accelerate Growth Trajectory:
+### Stabilize and Accelerate Growth Trajectory:
+- Investigate the specific "major event" or underlying factors that led to the revenue and profit decline in 2023 to implement preventative measures and ensure more consistent growth moving forward.
+- Analyze the drivers behind the significant customer increase in 2022 to identify repeatable strategies for future customer acquisition efforts.
 
-
-Investigate the specific "major event" or underlying factors that led to the revenue and profit decline in 2023 to implement preventative measures and ensure more consistent growth moving forward.
-Analyze the drivers behind the significant customer increase in 2022 to identify repeatable strategies for future customer acquisition efforts.
-Understand Seasonal Profit Dynamics:
-
-
-Conduct a detailed, year-by-year analysis of the varying monthly profit peaks to identify any recurring inconsistent, trends or external factors (e.g., promotional campaigns, industry events) that influence sales. This insight can help in more strategic planning of resources and marketing efforts.
+### Understand Seasonal Profit Dynamics:
+- Conduct a detailed, year-by-year analysis of the varying monthly profit peaks to identify any recurring inconsistent, trends or external factors (e.g., promotional campaigns, industry events) that influence sales. This insight can help in more strategic planning of resources and marketing efforts.
 
