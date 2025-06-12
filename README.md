@@ -116,3 +116,8 @@ Leverage the continued success of Marketplaces as the highest profit-generating 
 ### Understand Seasonal Profit Dynamics:
 - Conduct a detailed, year-by-year analysis of the varying monthly profit peaks to identify any recurring inconsistent, trends or external factors (e.g., promotional campaigns, industry events) that influence sales. This insight can help in more strategic planning of resources and marketing efforts.
 
+Connect with me on socials:
+- LinkedIn
+- Instagram
+- Blog
+- Github
