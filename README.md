@@ -99,25 +99,24 @@ You can interact with the live visualization [HERE](https://app.powerbi.com/grou
 The company currently presents a mixed but promising financial picture. While 2024 has seen a positive rebound in both revenue and profit, indicating a recovery from a challenging 2023, the overall year-over-year growth trajectory remains somewhat inconsistent. Specific geographic regions and sales channels appeared to be strong alongside a healthy customer base. However, areas of concern persist, particularly with certain product lines and the lack of predictable seasonal profit patterns.
 
 ### Key Recommendations:
-### Strategic Review of Underperforming Products:
+1. Strategic Review of Underperforming Products:
 - Conduct an urgent, in-depth investigation into the consistent underperformance of the Sports Bra product line. This analysis should aim to identify root causes (e.g., market demand, product quality, pricing, marketing) and inform a decision on whether to halt sales, redesign, or pivot the product strategy.
 
-### Optimize Sales Channel Investment:
-Leverage the continued success of Marketplaces as the highest profit-generating channel by exploring strategies to scale or replicate this success and understand its specific drivers.
+2. Optimize Sales Channel Investment:
+- Leverage the continued success of Marketplaces as the highest profit-generating channel by exploring strategies to scale or replicate this success and understand its specific drivers.
 
-### Enhance Geographic Profitability:
+3. Enhance Geographic Profitability:
 - Study the success factors in California to identify best practices, marketing strategies, or operational efficiencies that can be applied to other states to boost their profit contributions.
 - Continue to support and grow all states, especially those showing positive profit, as their collective performance directly impacts the company's overall financial health.
 
-### Stabilize and Accelerate Growth Trajectory:
+4. Stabilize and Accelerate Growth Trajectory:
 - Investigate the specific "major event" or underlying factors that led to the revenue and profit decline in 2023 to implement preventative measures and ensure more consistent growth moving forward.
 - Analyze the drivers behind the significant customer increase in 2022 to identify repeatable strategies for future customer acquisition efforts.
 
-### Understand Seasonal Profit Dynamics:
+5. Understand Seasonal Profit Dynamics:
 - Conduct a detailed, year-by-year analysis of the varying monthly profit peaks to identify any recurring inconsistent, trends or external factors (e.g., promotional campaigns, industry events) that influence sales. This insight can help in more strategic planning of resources and marketing efforts.
 
-Connect with me on socials:
-- LinkedIn
-- Instagram
-- Blog
-- Github
+### Connect with me on socials:
+[LinkedIn](https://www.linkedin.com/in/ruby-ihekweme-aat-b25001174/)
+[Blog](https://medium.com/@rubyugonnaya)
+[Github](https://github.com/rubytechme)
