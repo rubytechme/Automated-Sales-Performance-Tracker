@@ -2,7 +2,7 @@
 
 ![](https://github.com/rubytechme/Automated-Sales-Performance-Tracker/blob/main/Sales1.png)
 
-### Introduction:
+## Introduction:
 
 In the competitive business landscape, understanding a company's health goes beyond surface-level figures. It requires a deep dive into the nuances of financial trends, customer dynamics, and operational efficiencies.
 
